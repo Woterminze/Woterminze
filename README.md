@@ -45,7 +45,7 @@
 <img src="https://github.com/Woterminze/Woterminze/blob/master/assets/postman2.png" alt="Postman" width="350" height="250" />
 </a>
 <a href="https://stepik.org/cert/1698525">
-<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/testigtheory.png" alt="TestigTheory" width="350" height="250" />
+<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/testingtheory.png" alt="TestigTheory" width="350" height="250" />
 </a>
 <a href="https://stepik.org/cert/1698525">
 <img src="https://github.com/Woterminze/Woterminze/blob/master/assets/sqlbasic.png" alt="SqlBasic" width="350" height="250" />
