@@ -27,7 +27,9 @@
 
 ### Примеры моих тестовых артефактов
 
-- [Чек-лист и тест кейсы](https://github.com/Woterminze/Woterminze/assets/Goods.ru.xlsx)
+- [Чек-лист и тест кейсы](https://github.com/Woterminze/Woterminze/blob/master/assets/Goods.ru.xlsx)
+- [Таблица состояний и переходов](https://github.com/Woterminze/Woterminze/blob/master/assets/testdesign.xlsx)
+- [Таблица htitybq](https://github.com/Woterminze/Woterminze/blob/master/assets/testdesign2.xlsx)
 - [Автотесты (обучение)](https://github.com/Woterminze/TestAutomationPython)
 
 ### Ссылки на соцсети:
