@@ -1,5 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## Я инженер - тестировщик (веб,мобайл). В свободное время изучаю автоматизацию тестирования на Puthon и планирую стать полноценным full-stack QA :)
+![Header](https://github.com/Woterminze/Woterminze/assets/123.jpg)
+## Я инженер - тестировщик (веб,мобайл). В свободное время изучаю автоматизацию тестирования на Python и планирую стать полноценным full-stack QA :)
 ## Мое резюме:
 [Ссылка на резюме](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
@@ -17,10 +17,10 @@
 
 ### Примеры моей тестовой документации
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Checklists](https://github.com/Woterminze/Woterminze)
+- [Test-Suites and Test-Cases](https://github.com/Woterminze/Woterminze)
+- [Bug-Reports](https://github.com/Woterminze/Woterminze)
+- [SQL Queries](https://github.com/Woterminze/Woterminze)
 
 ### Ссылки на соцсети:
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/woterminze/)
