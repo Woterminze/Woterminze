@@ -37,4 +37,7 @@
 
 ### Сертификаты
 
-![PDF](ttps://github.com/Woterminze/Woterminze/assets/postman.pdf)
+<p align="left">
+<a href="https://stepik.org/cert/854495">
+<img src="https://github.com/Woterminze/Woterminze/assets/python2.png" alt="Python" width="50" height="50" />
+</a>
