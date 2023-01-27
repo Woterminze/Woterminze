@@ -1,4 +1,4 @@
-![Header](https://github.com/Woterminze/Woterminze/assets/123.jpg)
+![GIF](https://giphy.com/gifs/test-gw3IWyGkC0rsazTi)
 ## Я инженер - тестировщик (веб,мобайл). В свободное время изучаю автоматизацию тестирования на Python и планирую стать полноценным full-stack QA :)
 ## Мое резюме:
 [Ссылка на резюме](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
