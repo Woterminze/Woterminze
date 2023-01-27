@@ -6,32 +6,35 @@
 
 
 
-## Я инженер - тестировщик (веб,мобайл). В свободное время изучаю автоматизацию тестирования на Python и планирую стать полноценным full-stack QA :)
+## Я инженер-тестировщик (web, mobile). Работаю в FinTech проекте, тестирую инструмент по созданию форм. В свободное время изучаю автоматизацию тестирования на Python и готовлюсь к сдаче ISTQB. Планирую стать полноценным full-stack QA :)
 ## Мое резюме:
-[Ссылка на резюме](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Клик](link)
 
 
 ### Инструменты и языки программирования, которые я использую в работе
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=646464)
+![Header](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=cae616)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=6ade)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=8cc4d7&)
 
-### Примеры моей тестовой документации
+### Примеры моих тестовых артефактов
 
-- [Checklists](https://github.com/Woterminze/Woterminze)
-- [Test-Suites and Test-Cases](https://github.com/Woterminze/Woterminze)
-- [Bug-Reports](https://github.com/Woterminze/Woterminze)
-- [SQL Queries](https://github.com/Woterminze/Woterminze)
+- [Чек-лист и тест кейсы](https://github.com/Woterminze/Woterminze/assets/Goods.ru.xlsx)
+- [Автотесты (обучение)](https://github.com/Woterminze/TestAutomationPython)
 
 ### Ссылки на соцсети:
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/woterminze/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Woterminze)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/Woterminze/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tatyana-koptashkina/)
+[![Header](https://img.shields.io/badge/HabrCareer-090909?style=for-the-badge&logo=HabrCarre&logoColor=0073b1)](https://career.habr.com/woterminze)
 
+### Сертификаты
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woterminze&show_icons=true&theme=radical)
+![PDF](ttps://github.com/Woterminze/Woterminze/assets/postman.pdf)
