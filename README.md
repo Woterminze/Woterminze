@@ -39,5 +39,9 @@
 
 <p align="left">
 <a href="https://stepik.org/cert/854495">
-<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/python2.png" alt="Python" width="250" height="250" />
+<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/python2.png" alt="Python" width="350" height="250" />
+</a>
+<p align="right">
+<a href="https://stepik.org/cert/1698525">
+<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/postman2.png" alt="Postman" width="350" height="250" />
 </a>
