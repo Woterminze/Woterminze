@@ -27,9 +27,10 @@
 
 ### Примеры моих тестовых артефактов
 
-- [Чек-лист и тест кейсы](https://github.com/Woterminze/Woterminze/blob/master/assets/Goods.ru.xlsx)
-- [Таблица состояний и переходов](https://github.com/Woterminze/Woterminze/blob/master/assets/testdesign.xlsx)
-- [Таблица htitybq](https://github.com/Woterminze/Woterminze/blob/master/assets/testdesign2.xlsx)
+- [Чек-лист и тест кейсы](https://docs.google.com/spreadsheets/d/1eJqAsMvj2G1Bn3tYX2V47zsxO7lkgRE1ntI6aViBd-I/edit?usp=sharing)
+- [Таблица состояний и переходов](https://docs.google.com/spreadsheets/d/1U2XHORsjlaK8HNL0b_VLrgCLQ12aDwuWMRpclifnkbQ/edit?usp=share_link)
+- [Таблица решений](https://docs.google.com/spreadsheets/d/1Ap050_1An4BsQvIx9jVGWfER7EoLZH0E/edit?usp=share_link&ouid=101226444542607189092&rtpof=true&sd=true)
+- [Попарное тестирование формы регистрации](https://drive.google.com/drive/folders/1NteTPWVswOf87j6CynQJzpXjkIUjLTTw?usp=share_link)
 - [Автотесты (обучение)](https://github.com/Woterminze/TestAutomationPython)
 
 ### Ссылки на соцсети:
