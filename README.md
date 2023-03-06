@@ -26,6 +26,9 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=8cc4d7&)
 
+### Рекомендательное письмо
+- [Газпромбанк](https://drive.google.com/file/d/1FqmFA0ZVKzeBJfCiugozVrJmnaRz53WK/view?usp=share_link)
+
 ### Примеры моих тестовых артефактов
 
 - [Чек-лист и тест кейсы](https://docs.google.com/spreadsheets/d/1eJqAsMvj2G1Bn3tYX2V47zsxO7lkgRE1ntI6aViBd-I/edit?usp=sharing)
