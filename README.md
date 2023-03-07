@@ -36,6 +36,7 @@
 - [Таблица решений](https://docs.google.com/spreadsheets/d/1Ap050_1An4BsQvIx9jVGWfER7EoLZH0E/edit?usp=share_link&ouid=101226444542607189092&rtpof=true&sd=true)
 - [Попарное тестирование формы регистрации](https://drive.google.com/drive/folders/1NteTPWVswOf87j6CynQJzpXjkIUjLTTw?usp=share_link)
 - [Автотесты (обучение)](https://github.com/Woterminze/TestAutomationPython)
+- [Коллекции в Postman](https://www.postman.com/woterminze/workspace/api-testing-practice/overview)
 
 ### Ссылки на соцсети:
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Woterminze)
