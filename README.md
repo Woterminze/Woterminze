@@ -32,6 +32,7 @@
 ### Примеры моих тестовых артефактов
 
 - [Чек-лист и тест кейсы](https://docs.google.com/spreadsheets/d/1eJqAsMvj2G1Bn3tYX2V47zsxO7lkgRE1ntI6aViBd-I/edit?usp=sharing)
+- [Бфг-репорты в Jira](https://drive.google.com/drive/folders/1KF-pSGm_YDLKzlXQf6PmpVCyFC1W9UeV?usp=share_link)
 - [Таблица состояний и переходов](https://docs.google.com/spreadsheets/d/1U2XHORsjlaK8HNL0b_VLrgCLQ12aDwuWMRpclifnkbQ/edit?usp=share_link)
 - [Таблица решений](https://docs.google.com/spreadsheets/d/1Ap050_1An4BsQvIx9jVGWfER7EoLZH0E/edit?usp=share_link&ouid=101226444542607189092&rtpof=true&sd=true)
 - [Попарное тестирование формы регистрации](https://drive.google.com/drive/folders/1NteTPWVswOf87j6CynQJzpXjkIUjLTTw?usp=share_link)
