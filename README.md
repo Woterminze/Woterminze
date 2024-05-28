@@ -1,3 +1,9 @@
+<div align="center">
+
+![GIF](https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif)
+
+</div>
+
 
 ## Привет!
 ### Я инженер-тестировщик с 2+ годами практического опыта (web, mobile).Изучаю автоматизированное тестирование на JS и Python и планирую стать полноценным full-stack QA :)
