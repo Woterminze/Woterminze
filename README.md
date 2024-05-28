@@ -25,6 +25,7 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=8cc4d7&)
+![Header](https://img.shields.io/badge/:badgeContent)
 
 ### Рекомендательное письмо
 - [Газпромбанк (Руководитель продукта)](https://drive.google.com/file/d/1FqmFA0ZVKzeBJfCiugozVrJmnaRz53WK/view?usp=share_link)
