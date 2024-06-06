@@ -8,7 +8,7 @@
 ## Привет!
 ### Я инженер-тестировщик с 3 годами практического опыта (web, mobile).Изучаю автоматизированное тестирование на JS и Python и планирую стать полноценным full-stack QA :)
 ## Мое резюме:
-### [Клик](https://drive.google.com/file/d/1CuZ28k4mqX7En4VKlJqGnauH5k5BL_6D/view?usp=share_link)
+### [Клик](https://drive.google.com/file/d/1_gteyG__8JL-nIr5EqHyVGw2l_PWZ6yg/view?usp=sharing)
 
 
 ### Инструменты и языки программирования, которые я использую в работе
