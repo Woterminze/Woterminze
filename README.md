@@ -9,6 +9,9 @@
 ### Я инженер-тестировщик с 3 годами практического опыта (web, mobile).Изучаю автоматизированное тестирование на JS и Python и планирую стать полноценным full-stack QA :)
 ## Мое резюме:
 ### [Клик](https://drive.google.com/file/d/1_gteyG__8JL-nIr5EqHyVGw2l_PWZ6yg/view?usp=sharing)
+## Мой пет проект
+По автоматизации api тестирования на python, для которого я сама написала собственный api(FastAPI)  
+Подробности **[тут](https://github.com/Woterminze/DiabetesManagmentAPI)**
 
 
 ### Инструменты и языки программирования, которые я использую в работе
