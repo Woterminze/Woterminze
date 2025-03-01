@@ -10,8 +10,8 @@
 ## Мое резюме:
 ### [Клик](https://drive.google.com/file/d/1_gteyG__8JL-nIr5EqHyVGw2l_PWZ6yg/view?usp=sharing)
 ## Мой пет проект
-#### По автоматизации api тестирования на python, для которого я сама написала собственный api(FastAPI)  
-#### Подробности **[тут](https://github.com/Woterminze/DiabetesManagmentAPI)**
+### По автоматизации api тестирования на python, для которого я сама написала собственный api(FastAPI)  
+### Подробности **[тут](https://github.com/Woterminze/DiabetesManagmentAPI)**
 
 
 ### Инструменты и языки программирования, которые я использую в работе
@@ -20,12 +20,17 @@
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=646464)
 ![Header](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=cae616)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=6ade)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=31a5db)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/RedisInsight-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/TestIT-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DoQA-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 
 
