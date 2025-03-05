@@ -44,7 +44,6 @@
 - [Таблица состояний и переходов](https://docs.google.com/spreadsheets/d/1U2XHORsjlaK8HNL0b_VLrgCLQ12aDwuWMRpclifnkbQ/edit?usp=share_link)
 - [Таблица решений](https://docs.google.com/spreadsheets/d/1Ap050_1An4BsQvIx9jVGWfER7EoLZH0E/edit?usp=share_link&ouid=101226444542607189092&rtpof=true&sd=true)
 - [Попарное тестирование формы регистрации](https://drive.google.com/drive/folders/1NteTPWVswOf87j6CynQJzpXjkIUjLTTw?usp=share_link)
-- [Автотесты (обучение)](https://github.com/Woterminze/TestAutomationPython)
 - [Коллекции в Postman](https://www.postman.com/woterminze/workspace/api-testing-practice/overview)
 - [Тестовые задания (из публичного доступа)](https://docs.google.com/spreadsheets/d/1D1w4AMySxt5IVxHXvk16DnWuEBIh2rILr19iC_H8Wi4/edit?usp=share_link)
 
