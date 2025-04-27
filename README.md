@@ -52,13 +52,6 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tatyana-koptashkina/)
 [![Header](https://img.shields.io/badge/HabrCareer-090909?style=for-the-badge&logo=HabrCarre&logoColor=0073b1)](https://career.habr.com/woterminze)
 
-### Сертификаты
-
-<p align="left">
-<a href="https://stepik.org/cert/854495">
-<img src="https://github.com/Woterminze/Woterminze/blob/master/assets/python2.png" alt="Python" width="400" height="250" />
-</a>
-<a href="https://stepik.org/cert/1698525">
 <img src="https://github.com/Woterminze/Woterminze/blob/master/assets/postman2.png" alt="Postman" width="400" height="250" />
 </a>
 <a href="https://stepik.org/cert/1698525">
